@@ -1,0 +1,166 @@
+.header {
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #DE0029;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.hidden {
+	color: #FFFFFF;
+	font-size: 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.text_bold {
+	font-size: 9px;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.text {
+	font-size: 9px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.invisible {
+	color: #FF0000;
+	font-size: 9px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.red {
+	color: #DE0029;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+.main_title {
+	color: #DE0029;
+	font-weight: bold;
+	font-family: Lucida Bright;
+	font-size: 18px;
+}
+.welcome {
+	font-size: 12px;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.index_body {
+	background-image:url(../images/fond.gif);
+	background-repeat:no-repeat;
+}
+BODY {FONT-SIZE: 10px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Verdana,Arial,Helvetica}
+TD {FONT-SIZE: 10px; FONT-FAMILY: Verdana,Arial,Helvetica}
+TH {FONT-SIZE: 10px; FONT-FAMILY: Verdana,Arial,Helvetica; FONT-WEIGHT: bold; COLOR: #ffffff; TEXT-ALIGN: center; BACKGROUND-COLOR: #014768}
+INPUT {FONT-SIZE: 10px; FONT-FAMILY: Verdana,Arial,Helvetica}
+SELECT {FONT-SIZE: 10px; FONT-FAMILY: Verdana,Arial,Helvetica}
+TEXTAREA {FONT-SIZE: 10px; FONT-FAMILY: Verdana,Arial,Helvetica}
+A.nav {FONT-WEIGHT: normal; COLOR: #000000; TEXT-DECORATION: none}
+A:link {COLOR: #000000}
+A:visited {COLOR: #000000}
+.text_overbold {
+
+	font-size: 10px;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.red_bold {
+	color: #DE0029;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+}
+.red_big_bold {
+	color: #DE0029;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+.red_weekend {
+	background-color:#CCCCCC;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	color: #FF0000;
+	font-size: 9px;
+}
+.weekend_bold {
+	background-color:#CCCCCC;
+	font-size: 9px;
+	font-weight: bold;
+}
+.red_weekend_bold {
+	background-color:#CCCCCC;
+	color: #FF0000;
+	font-weight: bold;
+	font-size: 9px;
+}
+.weekend {
+
+	background-color:#CCCCCC;
+	font-size: 9px;
+}
+.weekend_select {
+
+	background-color:#CCCCCC;
+	font-size: 9px;
+	width:65px;
+}
+.non_working_day {
+
+	background-color:#CCCCCC;
+	font-size: 9px;
+}
+.non_working_day_select {
+
+	background-color:#CCCCCC;
+	font-size: 9px;
+	width:65px;
+}
+.day {
+
+	font-size: 9px;
+	width:65px;
+}.datagrid {
+	border-top: 1px solid #000000;
+	border-right: 1px none #000000;
+	border-bottom: 1px solid #000000;
+	border-left: 1px none #000000;
+	border-collapse:collapse;
+}
+.datagrid_no_bottom {
+	border-top: 1px solid #000000;
+	border-right: 1px none #000000;
+	border-left: 1px none #000000;
+	border-collapse:collapse;
+}
+.header_black {
+
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+	background-color: #DE0029;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+ul.report  li { list-style: none;} 
+ul.report, ul.report ul , ul.report li { margin-left:0em; }
+ul.report  li           .bullet { padding-left: 26px;}
+ul.report  li.liOpen    .bullet { cursor: pointer; background:  url("../images/report/minus.gif") center left no-repeat; }
+ul.report  li.liClosed  .bullet { cursor: pointer; background:  url("../images/report/plus.gif") center left no-repeat; }
+ul.report  li.liBullet  .bullet { cursor: default; background: none;}
+ul.report  li.liOpen    ul { display: block; }
+ul.report  li.liClosed  ul { display: none; }
+ul.report  li { font-size: 10pt;
+border-top: 1px solid #000000;
+border-collapse:collapse;}
+ul.report  li ul li { padding-left: 11px;font-size: 10pt; }
+ul.report  li ul li ul li { padding-left: 10px;font-size: 10pt; }
+ul.report  ul li ul li ul li li { padding-left: 26px;font-size: 10pt; }
+.text_help {
+
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.welcome_help {
+
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
