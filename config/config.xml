@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<config>
+	<sql_user login="portal_user" password="user" />
+	<sql_servers>
+		<sql_server name="WAZZUP" database="DeliaDB" />
+	</sql_servers>
+	<ftp_user login="websupport" password="websupport" />
+	<ftp_servers>
+		<ftp_server name="websupport" />
+	</ftp_servers>
+	<application version="1.8R0" />
+	<administrator email="benoit.leguern@supinfo.com" />
+</config>
